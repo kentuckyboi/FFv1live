@@ -17,7 +17,7 @@
 window.FF_CONFIG = {
   // Empty string = demo mode (localStorage only).
   // Paste your URL here when ready: e.g. "https://script.google.com/macros/s/AK..../exec"
-  apiUrl: "https://script.google.com/macros/s/AKfycbxKPcD30RXDDC6Hy_q4xeX9YYHfLnsx9SqfjiXQaXog81RsaFQ4gSWoJFTI5wjhUbBmpQ/exec",
+  apiUrl: "https://script.google.com/macros/s/AKfycbwJV09A9NtK19nkWBhD-f_uBaea2CMhi_JWK63BZ34O_Ume7py9CMtoRt53BMX8jmuR0g/exec",
 
   // Whether self-signup is allowed. Disable if your conference is closed-roster.
   allowSelfSignup: true,
