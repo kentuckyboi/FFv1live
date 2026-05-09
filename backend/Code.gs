@@ -26,7 +26,7 @@
 
 // PASTE YOUR SHEET ID HERE. The ID is in the Google Sheet URL between /d/ and /edit:
 //   https://docs.google.com/spreadsheets/d/[THIS_PART_IS_THE_ID]/edit
-const SPREADSHEET_ID = "PASTE_YOUR_SHEET_ID_HERE";
+const SPREADSHEET_ID = "1omrGfwwuPF8Nr6HyQXvA924S6lYAzvSOiuLYm5YqB74";
 
 const TAB_MEMBERS = "Members";
 const TAB_COMPLETIONS = "Completions";
